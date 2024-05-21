@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Golang, SQLite, VueJs, Docker**
+- 🔭 I’m currently working on **Golang, SQLite, VueJs, Docker, Rust**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -86,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,notion,docker,sqlite,vue,figma,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode,c,graphql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,notion,docker,rust,sqlite,vue,figma,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode,c,graphql&perline=14" />
   </a>
 </p>
 
@@ -117,4 +117,4 @@
 ----------------------------------------------------------------------
 @daibouba
 
-Last Edited on: 04/19/2024
+Last Edited on: 05/21/2024
