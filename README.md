@@ -38,7 +38,7 @@
 
 - 📫 Feel free to reach me out **bdaibou@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Twitter/X –  [daiboutee](https://twitter.com/DaibouTee) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Twitter/X –  [daiboutee](https://twitter.com/daibou_ba) my username!
 <!--Intro end-->
 
 
@@ -117,4 +117,4 @@
 ----------------------------------------------------------------------
 @daibouba
 
-Last Edited on: 05/21/2024
+Last Edited on: 07/18/2025
